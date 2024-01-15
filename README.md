@@ -1,7 +1,8 @@
-## Sudoku Solver
+# Sudoku Solver
 
-# Utilizes Pygame for GUI and a backtracking algorithm to solve.
+## Utilizes Pygame for GUI and a backtracking algorithm to solve.
 
-# Instructions:
+## Instructions:
 Spacebar: solve
+
 Click: select cell to enter your value
